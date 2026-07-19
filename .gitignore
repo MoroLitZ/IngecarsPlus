@@ -1,0 +1,33 @@
+﻿# ── Sistema ──
+Thumbs.db
+.DS_Store
+Desktop.ini
+*.log
+*.tmp
+
+# ── IDE / Editor ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# ── Entorno ──
+.env
+.env.local
+.env.*.local
+
+# ── Dependencias ──
+vendor/
+node_modules/
+
+# ── Archivos comprimidos ──
+*.zip
+*.rar
+*.tar.gz
+*.7z
